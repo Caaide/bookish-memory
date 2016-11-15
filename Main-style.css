@@ -1,0 +1,26 @@
+html {
+background: #fff;
+font-family: 'PT Sans', sans-serif;
+}
+#hero-block {
+  height: 1000px;
+  width: 100%;
+  background: url(https://codeanywhere.com/api/ca6/file/open/?token=050fbc40b7d0fb0d69ee9fc6db9eea6d6d914a00797598b3&connectionId=818047&path=Files/Images/picjumbo.com_IMG_3130.jpg&encoding=UTF-8&id=3d282525b8e6b3d1a188d523f13f6534&);
+  background-attachment: fixed;
+  z-index: 1;
+}
+#hero-block-content {
+  display: inline-block;
+  position: absolute;
+  top: 150px;
+  left: 170px;
+  float: middle;
+}
+.title {
+  color: #fff;
+  font-family: inherit;
+  font-size: 22px;
+  line-height: 25px;
+  text-align:center;
+  text-shadow: 0px 0px 0px 30px rgba(0,0,0,0.8);
+}
